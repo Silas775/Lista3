@@ -384,14 +384,104 @@ http://lb.kstream.org/aovivo/HD_PFC_4_ALTER/video.m3u8?token=d40dbc9b081b7745b3b
 http://lb.kstream.org/aovivo/fHD_PFC_4/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 #EXTINF:0 tvg-logo="" group-title="Esportes",Premiere 5
+http://lb.kstream.org/aovivo/SD_PFC_5/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 #EXTINF:0 tvg-logo="" group-title="Esportes",Premiere 5 HD
+http://lb.kstream.org/aovivo/HD_PFC_5/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 #EXTINF:0 tvg-logo="" group-title="Esportes",Premiere 5 HD
+http://lb.kstream.org/aovivo/HD_PFC_5_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 #EXTINF:0 tvg-logo="" group-title="Esportes",Premiere 5 HD
+http://lb.kstream.org/aovivo/FHD_PFC_5/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",Premiere 6
+http://lb.kstream.org/aovivo/SD_PFC_6/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",Premiere 6 HD
+http://lb.kstream.org/aovivo/HD_PFC_6/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",Premiere 6 HD
+http://lb.kstream.org/aovivo/HD_PFC_6_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",Premiere 6 HD
+http://lb.kstream.org/aovivo/FHD_PFC_6/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",Premiere 7
+http://lb.kstream.org/aovivo/SD_PFC_7/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",Premiere 7 HD
+http://lb.kstream.org/aovivo/HD_PFC_7/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",Premiere 7 HD
+http://lb.kstream.org/aovivo/HD_PFC_7_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",Premiere 7 HD
+http://lb.kstream.org/aovivo/FHD_PFC_7/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",Premiere 8
+http://lb.kstream.org/aovivo/SD_PFC_8/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",Premiere 8 HD
+http://lb.kstream.org/aovivo/HD_PFC_8/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",Premiere 8 HD
+http://lb.kstream.org/aovivo/HD_PFC_8_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",Premiere 8 HD
+http://lb.kstream.org/aovivo/FHD_PFC_8/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
 #EXTINF:0 tvg-logo="" group-title="Esportes",Premiere
+http://lb.kstream.org/aovivo/SD_PFC_CLUBES/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",Premiere HD
+http://lb.kstream.org/aovivo/HD_PFC_CLUBES/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",Premiere HD
+http://lb.kstream.org/aovivo/HD_PFC_CLUBES_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",Premiere FHD
+http://lb.kstream.org/aovivo/FHD_PFC_CLUBES/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",SporTv
+http://lb.kstream.org/aovivo/SD_SPORTV_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",SporTv HD
+http://lb.kstream.org/aovivo/HD_SPORTV_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",SporTv HD
+http://lb.kstream.org/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",SporTv FHD
+http://lb.kstream.org/aovivo/FHD_SPORTV_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",SporTv 2
+http://lb.kstream.org/aovivo/SD_SPORTV_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",SporTv 2 HD
+http://lb.kstream.org/aovivo/HD_SPORTV_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",SporTv 2 HD
+http://lb.kstream.org/aovivo/HD_SPORTV_2_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",SporTv 2 FHD
+http://lb.kstream.org/aovivo/FHD_SPORTV_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",SporTv 3
+http://lb.kstream.org/aovivo/SD_SPORTV_3/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",SporTv 3 HD
+http://lb.kstream.org/aovivo/HD_SPORTV_3/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",SporTv 3 HD
+http://lb.kstream.org/aovivo/HD_SPORTV_3_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Esportes",SporTv 3 FHD
+http://lb.kstream.org/aovivo/FHD_SPORTV_3/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+
+
+
 
 
 
