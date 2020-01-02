@@ -1,0 +1,78 @@
+#EXTM3U
+
+Documentários
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Animal Planet
+http://lb.kstream.org/aovivo/SD_ANIMAL_PLANET/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Animal Planet HD
+http://lb.kstream.org/aovivo/HD_ANIMAL_PLANET/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Animal Planet HD
+http://lb.kstream.org/aovivo/HD_ANIMAL_PLANET_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Animal Planet FHD
+http://lb.kstream.org/aovivo/FHD_ANIMAL_PLANET/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery Channel
+http://lb.kstream.org/aovivo/SD_DISCOVERY/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery Channel HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery Channel HD 
+http://lb.kstream.org/aovivo/HD_DISCOVERY_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery Channel FHD
+http://lb.kstream.org/aovivo/FHD_DISCOVERY/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery Civilization
+http://lb.kstream.org/aovivo/SD_DISCOVERY_CIVILIZATION/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery Science
+http://lb.kstream.org/aovivo/SD_DISCOVERY_SCIENCE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery Science HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_SCIENCE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery Science HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_SCIENCE_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery Science FHD
+http://lb.kstream.org/aovivo/FHD_DISCOVERY_SCIENCE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery Theater
+http://lb.kstream.org/aovivo/SD_DISCOVERY_THEATER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery Theater HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery Theater HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_THEATER_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery Theater FHD
+http://lb.kstream.org/aovivo/FHD_DISCOVERY_THEATER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery Turbo
+http://lb.kstream.org/aovivo/SD_DISCOVERY_TURBO/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery Turbo HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_TURBO/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery Turbo HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_TURBO_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery Turbo FHD
+http://lb.kstream.org/aovivo/FHD_DISCOVERY_TURBO/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery World
+http://lb.kstream.org/aovivo/SD_DISCOVERY_WORLD/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery World HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_WORLD/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery World HD
+http://lb.kstream.org/aovivo/HD_DISCOVERY_WORLD_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Documentários",Discovery World FHD
+http://lb.kstream.org/aovivo/FHD_DISCOVERY_WORLD/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
