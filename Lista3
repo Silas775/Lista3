@@ -479,6 +479,262 @@ http://lb.kstream.org/aovivo/HD_SPORTV_3_ALTER/video.m3u8?token=d40dbc9b081b7745
 #EXTINF:0 tvg-logo="" group-title="Esportes",SporTv 3 FHD
 http://lb.kstream.org/aovivo/FHD_SPORTV_3/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
 
+Filmes e Series
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",MegaPix
+http://lb.kstream.org/aovivo/SD_MEGAPIX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",MegaPix HD
+http://lb.kstream.org/aovivo/HD_MEGAPIX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",MegaPix HD
+http://lb.kstream.org/aovivo/HD_MEGAPIX_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",MegaPix FHD
+http://lb.kstream.org/aovivo/HD_MEGAPIX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",A&E
+http://lb.kstream.org/aovivo/SD_AE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",A&E HD
+http://lb.kstream.org/aovivo/HD_AE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",A&E HD
+http://lb.kstream.org/aovivo/HD_AE_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",A&E FHD
+http://lb.kstream.org/aovivo/FHD_AE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",AMC
+http://lb.kstream.org/aovivo/SD_AMC_/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",AMC
+http://lb.kstream.org/aovivo/HD_AMC/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",AMC HD
+http://lb.kstream.org/aovivo/HD_AMC_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",AMC FHD
+http://lb.kstream.org/aovivo/FHD_AMC/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",AXN
+http://lb.kstream.org/aovivo/SD_AXN/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",AXN
+http://lb.kstream.org/aovivo/HD_AXN/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",AXN
+http://lb.kstream.org/aovivo/HD_AXN_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",AXN
+http://lb.kstream.org/aovivo/FHD_AXN/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Canal Brasil
+http://lb.kstream.org/aovivo/SD_CANAL_BRASIL/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Canal Brasil
+http://lb.kstream.org/aovivo/HD_CANAL_BRASIL/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Canal Brasil
+http://lb.kstream.org/aovivo/HD_CANAL_BRASIL_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Cinemax
+http://lb.kstream.org/aovivo/SD_CINEMAX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Cinemax HD
+http://lb.kstream.org/aovivo/DD_CINEMAX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Cinemax HD
+http://lb.kstream.org/aovivo/HD_CINEMAX_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Cinemax FHD
+http://lb.kstream.org/aovivo/FHD_CINEMAX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Canal Brasil
+http://lb.kstream.org/aovivo/FHD_CANAL_BRASIL/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Comedy Central
+http://lb.kstream.org/aovivo/SD_COMEDY_CENTRAL/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Comedy Central HD
+http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Comedy Central HD
+http://lb.kstream.org/aovivo/HD_COMEDY_CENTRAL_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Comedy Central FHD
+http://lb.kstream.org/aovivo/FHD_COMEDY_CENTRAL/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",FOX
+http://lb.kstream.org/aovivo/SD_FOX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",FOX HD
+http://lb.kstream.org/aovivo/HD_FOX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",FOX HD
+http://lb.kstream.org/aovivo/HD_FOX_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",FOX FHD
+http://lb.kstream.org/aovivo/FHD_FOX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",FOX PREMIUM
+http://lb.kstream.org/aovivo/SD_FOX_PREMIUM_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",FOX PREMIUM HD
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",FOX PREMIUM HD
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_1_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",FOX PREMIUM FHD
+http://lb.kstream.org/aovivo/FHD_FOX_PREMIUM_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",FOX PREMIUM 2
+http://lb.kstream.org/aovivo/SD_FOX_PREMIUM_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",FOX PREMIUM 2 HD
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",FOX PREMIUM 2 HD
+http://lb.kstream.org/aovivo/HD_FOX_PREMIUM_2_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",FOX PREMIUM 2 FHD
+http://lb.kstream.org/aovivo/FHD_FOX_PREMIUM_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",FX
+http://lb.kstream.org/aovivo/HD_FX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",FX HD
+http://lb.kstream.org/aovivo/SD_FX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",FX HD
+http://lb.kstream.org/aovivo/HD_FX_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",FX FHD
+http://lb.kstream.org/aovivo/FHD_FX/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO
+http://lb.kstream.org/aovivo/SD_HBO_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO
+http://lb.kstream.org/aovivo/HD_HBO_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO
+http://lb.kstream.org/aovivo/HD_HBO_1_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO
+http://lb.kstream.org/aovivo/FHD_HBO_1/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO 2
+http://lb.kstream.org/aovivo/SD_HBO_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO 2 HD
+http://lb.kstream.org/aovivo/HD_HBO_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO 2 HD
+http://lb.kstream.org/aovivo/HD_HBO_2_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO 2 FHD
+http://lb.kstream.org/aovivo/FHD_HBO_2/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO Family
+http://lb.kstream.org/aovivo/SD_HBO_FAMILY/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO Family HD
+http://lb.kstream.org/aovivo/HD_HBO_FAMILY/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO Family HD
+http://lb.kstream.org/aovivo/HD_HBO_FAMILY_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO Family FHD
+http://lb.kstream.org/aovivo/FHD_HBO_FAMILY/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO Plus 
+http://lb.kstream.org/aovivo/SD_HBO_PLUS/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO Plus HD
+http://lb.kstream.org/aovivo/HD_HBO_PLUS/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO Plus HD
+http://lb.kstream.org/aovivo/HD_HBO_PLUS_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO Plus FHD
+http://lb.kstream.org/aovivo/FHD_HBO_PLUS/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO Signature
+http://lb.kstream.org/aovivo/SD_HBO_SINGNATURE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO Signature HD
+http://lb.kstream.org/aovivo/D_HBO_SINGNATURE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO Signature HD
+http://lb.kstream.org/aovivo/HD_HBO_SINGNATURE_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",HBO Signature FHD
+http://lb.kstream.org/aovivo/FHD_HBO_SINGNATURE/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Sat
+http://lb.kstream.org/aovivo/SD_ISAT/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Sat HD
+http://lb.kstream.org/aovivo/HD_ISAT/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Sat HD
+http://lb.kstream.org/aovivo/HD_ISAT_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series",Sat FHD
+http://lb.kstream.org/aovivo/FHD_ISAT/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series"Lifetime
+http://lb.kstream.org/aovivo/SD_LIFETIME/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series"Lifetime HD
+http://lb.kstream.org/aovivo/HD_LIFETIME/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series"Lifetime HD
+http://lb.kstream.org/aovivo/HD_LIFETIME_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series"Lifetime FHD
+http://lb.kstream.org/aovivo/FHD_LIFETIME/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series"MAX
+http://lb.kstream.org/aovivo/SD_MAX_/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series"MAX HD
+http://lb.kstream.org/aovivo/HD_MAX_/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series"MAX HD
+http://lb.kstream.org/aovivo/HD_MAX_ALTER/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series"MAX FHD
+http://lb.kstream.org/aovivo/FHD_MAX_/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series"MAX Prime
+http://lb.kstream.org/aovivo/SD_MAX_PRIME/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series"MAX Prime HD
+http://lb.kstream.org/aovivo/HD_MAX_PRIME/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series"MAX Prime HD
+http://lb.kstream.org/aovivo/HD_MAX_PRIME/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+#EXTINF:0 tvg-logo="" group-title="Filmes e Series"MAX Prime FHD
+http://lb.kstream.org/aovivo/FHD_MAX_PRIME/video.m3u8?token=d40dbc9b081b7745b3b616f3ed7d9c62
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
